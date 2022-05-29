@@ -1,0 +1,9 @@
+Best practice is modularize all tf code. 
+Doing this diagram of modules:
+ - rg 
+ - provider 
+ - network 
+ - compute 
+
+And we don't spend time reading a big file like the previously main.tf
+
